@@ -56,17 +56,18 @@ A curated list of recent diffusion models for video generation, editing, restora
   [![Star](https://img.shields.io/github/stars/Wan-Video/Wan2.1.svg?style=social&label=Star)](https://github.com/Wan-Video/Wan2.1)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://wanxai.com/)
   
-概念：Wan-Video是一个开源视频生成框架，专注于高质量视频合成与编辑。其核心可能基于扩散模型（Diffusion Models），支持文本/图像到视频的生成任务。
-特点：
-
-提供模块化设计，便于自定义视频生成流程
-
-官网(wanxai.com)可能包含在线演示或商业应用案例
-
-GitHub活跃度通过Stars数量反映社区关注度
+  概念：Wan-Video是一个开源视频生成框架，专注于高质量视频合成与编辑。其核心可能基于扩散模型（Diffusion Models），支持文本/图像到视频的生成任务。
+  特点：
+  
+  提供模块化设计，便于自定义视频生成流程
+  
+  官网(wanxai.com)可能包含在线演示或商业应用案例
+  
+  GitHub活跃度通过Stars数量反映社区关注度
 
 + [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)  
   [![Star](https://img.shields.io/github/stars/modelscope/DiffSynth-Studio.svg?style=social&label=Star)](https://github.com/modelscope/DiffSynth-Studio)
+
 
 + [Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model](https://arxiv.org/abs/2502.10248)  
   [![Star](https://img.shields.io/github/stars/stepfun-ai/Step-Video-T2V.svg?style=social&label=Star)](https://github.com/stepfun-ai/Step-Video-T2V)
