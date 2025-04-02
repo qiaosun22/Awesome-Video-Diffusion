@@ -50,10 +50,19 @@ A curated list of recent diffusion models for video generation, editing, restora
 - [Other Applications](#other-applications)
 
 ### Open-source Toolboxes and Foundation Models 
+定义：指开源的工具箱（集成化开发环境/工具集合）和基础模型（预训练的大规模多模态模型），用于视频生成、编辑、合成等任务。这类资源通常提供模型架构、训练代码、推理接口或应用案例，推动视频生成领域的可复现研究和工业应用。
 
 + [Wan-Video](https://github.com/Wan-Video/Wan2.1)  
   [![Star](https://img.shields.io/github/stars/Wan-Video/Wan2.1.svg?style=social&label=Star)](https://github.com/Wan-Video/Wan2.1)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://wanxai.com/)
+概念：Wan-Video是一个开源视频生成框架，专注于高质量视频合成与编辑。其核心可能基于扩散模型（Diffusion Models），支持文本/图像到视频的生成任务。
+特点：
+
+提供模块化设计，便于自定义视频生成流程
+
+官网(wanxai.com)可能包含在线演示或商业应用案例
+
+GitHub活跃度通过Stars数量反映社区关注度
 
 + [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)  
   [![Star](https://img.shields.io/github/stars/modelscope/DiffSynth-Studio.svg?style=social&label=Star)](https://github.com/modelscope/DiffSynth-Studio)
