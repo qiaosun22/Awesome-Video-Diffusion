@@ -55,6 +55,7 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [Wan-Video](https://github.com/Wan-Video/Wan2.1)  
   [![Star](https://img.shields.io/github/stars/Wan-Video/Wan2.1.svg?style=social&label=Star)](https://github.com/Wan-Video/Wan2.1)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://wanxai.com/)
+  
 概念：Wan-Video是一个开源视频生成框架，专注于高质量视频合成与编辑。其核心可能基于扩散模型（Diffusion Models），支持文本/图像到视频的生成任务。
 特点：
 
